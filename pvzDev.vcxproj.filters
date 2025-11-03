@@ -23,8 +23,5 @@
     <ClInclude Include="mainUI.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="alphaDraw.cpp">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
